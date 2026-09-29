@@ -1,0 +1,72 @@
+{
+  "x": 1026,
+  "y": 10,
+  "topmost": false,
+  "my_grade": 2,
+  "my_class": 11,
+  "weekly_message": "오늘도 서로 배려하며 즐겁게 보내요!",
+  "order_rules": {
+    "1": {
+      "base_order": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cycle": "weekly",
+      "base_date": "2026-09-01"
+    },
+    "2": {
+      "base_order": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cycle": "weekly",
+      "base_date": "2026-09-01"
+    },
+    "3": {
+      "base_order": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "cycle": "weekly",
+      "base_date": "2026-09-01"
+    }
+  },
+  "school": {
+    "name": "서일중학교",
+    "office_code": "B10",
+    "school_code": "7091433"
+  },
+  "departure_rule": {
+    "start_time": "12:30",
+    "interval_minutes": 5,
+    "classes_per_slot": 2
+  },
+  "quest_log": {}
+}
